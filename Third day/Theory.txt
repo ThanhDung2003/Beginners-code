@@ -1,0 +1,44 @@
+1. Viết chương trình in bảng số từ 1 đến 200.
+VD: 
+1 2 3 4 5 6 7 8 9 10
+11 12 13 14 15 16 17 18 19 20
+…
+2. Cho số nguyên n được nhập từ bàn phím. In ra bảng cửu chương ứng với 
+n vừa nhập.
+VD:
+Input: n = 1
+Output:
+1 x 1 = 1
+1 x 2 = 2
+1 x 3 = 3
+…
+3. Viết chương trình nhập một số nguyên và in kết quả ra màn hình dưới 
+dạng số đảo ngược (về thứ tự) của số nguyên vừa nhập đó (không dùng hàm
+xử lí chuỗi, mảng kí tự)
+VD:
+Input: 12345
+Output: 54321
+4. Nhập số nguyên dương n bất kỳ, viết chương trình in n phần tử đầu tiên của dãy Fibonacci.
+5.Nhập số nguyên dương n lẻ bất kỳ. Viết chương trình vẽ tam giác "*" có chiều rộng là n hàng.
+VD:
+n = 1:
+Output:
+
+*
+
+n = 3:
+Output:
+
+*
+**
+*
+
+n = 5:
+Output:
+
+*
+**
+***
+**
+*
+

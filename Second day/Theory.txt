@@ -1,0 +1,25 @@
+I. Lí thuyết:
+1. Nêu lên sự giống nhau và khác nhau của mảng kí tự và chuỗi.
+* Giống:
+- Lưu trữ dữ liệu văn bản
+- Cả hai đều cho phép truy cập và thao tác các phần tử trong dữ liệu văn bản.
+- Cùng dùng các phép toán: Cả mảng kí tự và chuỗi đều có thể sử dụng các phép toán như cộng (+), gán (=), so sánh (==), v.v.
+* Khác:
+- Mảng kí tự là mảng 1 chiều bao gồm các kí tự, độ dài cố định.
+- Chuỗi là văn bản, độ dài có thể thay đổi tùy ý.
+- Mảng kí tự không được gán trực tiếp.
+- Chuỗi có các phương thức và hàm dễ cho việc xử lý và biến đổi dữ liệu
+- Mảng kí tự thường cần phải thao tác trực tiếp với các phần tử.
+- Chuỗi linh hoạt hơn mảng kí tự.
+
+II. Bài tập:
+1. In dòng chữ sau ra màn hình:
+We are the so-called "Vikings" from the north.
+2. (Thao tác trên mảng kí tự) Nhập một chuỗi kí tự bất kì. 
+Tìm độ dài của chuỗi đó (không dùng hàm có sẵn)
+3. Nhập chuỗi s từ bàn phím. Kiểm tra tính đối xứng của chuỗi
+vừa nhập.
+4. Nhập vào 1 chuỗi và 1 ký tự, kiểm tra ký tự có trong chuỗi hay không, 
+nếu có đưa ra số lần xuất hiện của ký tự đó trong chuỗi
+5. Chuyển chuỗi nhập từ bàn phím thành chữ viết hoa, viết thường và viết 
+hoa mỗi chữ cái đầu mỗi từ.

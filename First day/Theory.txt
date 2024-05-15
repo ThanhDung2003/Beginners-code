@@ -1,0 +1,9 @@
+Data type:
+1. Int: number without decimals - 2 or 4 bytes
+2. Double: floating point number, with decimals - 8 bytes
+3. Char: single characters. Surrounded by single quotes - 1 byte
+4. String: text. Surrounded by double quotes
+5. Bool: true or false - 1 byte
+6. Float: Stores fractional numbers, containing one or more decimals. - 4 bytes
+
+Calculation:
